@@ -265,7 +265,7 @@ const Main = ({ animations }) => {
           </div>
         </div>
       </div>
-      <div className="md:px-[8vw] mobile:px-[4.5vw] overflow-hidden mt-4">
+      {/* <div className="md:px-[8vw] mobile:px-[4.5vw] overflow-hidden mt-4">
         <div className="flex md:flex-row mobile:flex-col-reverse justify-between md:px-4 mobile:px-2 md:items-end mobile:items-baseline w-[100%]">
           <img
             ref={referrelsImage}
@@ -300,7 +300,7 @@ const Main = ({ animations }) => {
             </Carousel>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
