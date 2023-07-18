@@ -16,19 +16,19 @@ import SocialMedia from "./SocialMedia";
 import html from "../Data/icons/html.png";
 import css from "../Data/icons/css-3.png";
 import javascript from "../Data/icons/js.png";
-import typescript from "../Data/icons/typescript.png";
+// import typescript from "../Data/icons/typescript.png";
 import tailwind from "../Data/icons/tailwind.png";
 import bootstrap from "../Data/icons/bootstrap.png";
-import nodejs from "../Data/icons/node-js-736399_1280.png";
-import expressjs from "../Data/icons/Expressjs.png";
-import mongodb from "../Data/icons/mongodb.png";
-import mongoose from "../Data/icons/mongoose.png";
+// import nodejs from "../Data/icons/node-js-736399_1280.png";
+// import expressjs from "../Data/icons/Expressjs.png";
+// import mongodb from "../Data/icons/mongodb.png";
+// import mongoose from "../Data/icons/mongoose.png";
 import git from "../Data/icons/git.png";
 import github from "../Data/icons/github.png";
-import c from "../Data/icons/letter-c.png";
-import cplus from "../Data/icons/c++.png";
+// import c from "../Data/icons/letter-c.png";
+// import cplus from "../Data/icons/c++.png";
 import npm from "../Data/icons/npm.png";
-import python from "../Data/icons/python.png";
+// import python from "../Data/icons/python.png";
 import { AiOutlineLinkedin } from "react-icons/ai";
 
 const Main = ({ animations }) => {
