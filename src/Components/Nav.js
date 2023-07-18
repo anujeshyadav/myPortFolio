@@ -97,20 +97,37 @@ const Nav = () => {
                 <li
                   onClick={(e) => {
                     e.preventDefault();
-                    closeNav();
                     history("/projects");
                   }}
                   className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition"
                 >
                   Projects
                 </li>
-                <li className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition">
+                <li
+                  onClick={(e) => {
+                    e.preventDefault();
+                    history("/experience");
+                  }}
+                  className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition"
+                >
                   Experience
                 </li>
-                <li className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition">
+                <li
+                  onClick={(e) => {
+                    e.preventDefault();
+                    history("/aboutus");
+                  }}
+                  className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition"
+                >
                   About
                 </li>
-                <li className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition">
+                <li
+                  onClick={(e) => {
+                    e.preventDefault();
+                    history("/contactus");
+                  }}
+                  className="cursor-pointer px-3 py-[4px] rounded-md hover:bg-white hoverTransition"
+                >
                   Contact
                 </li>
                 <a
@@ -119,9 +136,9 @@ const Nav = () => {
                   style={{ transition: "all 0.25s ease-in-out" }}
                   className="text-grey border px-4 py-[2.25px] rounded-md border-grey cursor-pointer hover:bg-grey hover:text-lightWhite"
                 >
-                  Resume
+                  Download Resume
                 </a>
-                <button
+                {/* <button
                   onClick={(e) => {
                     e.preventDefault();
                     window.open("https://www.buymeacoffee.com/anekantjain");
@@ -129,7 +146,7 @@ const Nav = () => {
                   className="btnHover text-lightWhite bg-grey px-4 py-1 rounded-md cursor-pointer"
                 >
                   Buy me a Coffee ☕
-                </button>
+                </button> */}
               </ul>
             </>
           ) : (

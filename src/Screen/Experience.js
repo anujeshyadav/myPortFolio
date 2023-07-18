@@ -3,8 +3,8 @@ import React from "react";
 function Experience() {
   return (
     <>
-      <div style={{ padding: "37px 132px" }} className="">
-        <div>
+      <div className="mycontactusrform>">
+        <div className="container">
           <h4>
             **Experience** : ** Sveltose Technology | Front End Developer |
             2022-Present**
