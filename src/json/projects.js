@@ -7,14 +7,14 @@ const prodects = [
     url: "https://brahmaand.space",
     github: ["https://github.com/anujeshyadav/brahmaand.space.git"],
     desc: "A Content Website, where user and content creator Can Submit Content. and user Can give them Rate and Review and win exiting Prize",
-    skills: ["React.js", "Tailwind", "FireBase"],
+    skills: ["React.js", "Tailwind", "FireBase", "react strap"],
     img: "/projects/Sociopath/bramaand.jpeg",
     D_desc:
       "Brahmaand.space is a Content Website. Where user and Content Creator can Submit their Content and Resources with link, details and category. and get comments by user about their product and Resources. if one gets the rate & review then one can get the Exiting Rewards and Points. and can earn cash daily, weekly and monthly. and user can Bookmark that content and get it to their panel for further use. also User Can login with Gmail account after verification through email. and user can Filter based on free, paid , video text and video and text and also on content year and content languages",
     Arrimg: [
       {
         id: "11",
-        caption: "Search Bar ",
+        caption: "Search Bar",
         img: "/projects/Sociopath/Brahmaand 1.jpeg",
       },
       {
@@ -51,7 +51,7 @@ const prodects = [
     D_desc:
       "Mymanager is American based Project that is use to manager Multiple Things. I worked on Social media Integration of Facebook Login and Business page of Facebook would be manage Through CRM, Like getting Business Page Post and their comment and we can reply on each comment and we can schedule the Posting of Content with Image or Without Image or Video also can delete comment and post thorugh CRM",
 
-    skills: ["React.js", "Facebook api", "Tailwind"],
+    skills: ["React.js", "Facebook api", "Tailwind", "bootstrap"],
     img: "/projects/Sociopath/mymanager.jpeg",
     Arrimg: [
       {
@@ -91,7 +91,7 @@ const prodects = [
     D_desc:
       "Astrologically platform is developed for online connectivity of Astrologer With User through Voice Call/ Video Call / and Chat and having many other usage like astromall. and astro Mall is used to sell the product of astrologer and they can earn money also having facility for match making lal kitabh, pitra dosh and live streaming of pooja and free astrologer talk with user and Astrologer",
 
-    skills: ["React.js", "Tailwind", "FireBase"],
+    skills: ["React.js", "Tailwind", "FireBase", "reactstrap"],
     img: "/projects/Sociopath/homepage.png",
     Arrimg: [
       {
@@ -152,30 +152,94 @@ const prodects = [
     skills: ["React.js", "Tailwind"],
     img: "/projects/Sociopath/myportfolio.jpeg",
     Arrimg: [
-      {
-        id: "41",
-        caption: "text",
+      // {
+      //   id: "41",
+      //   caption: "text",
 
-        img: "/projects/Sociopath/maymanager3.jpeg",
-      },
+      //   img: "/projects/Sociopath/maymanager3.jpeg",
+      // },
       {
         id: "42",
         caption: "text",
 
-        img: "/projects/Sociopath/mymanager.jpeg",
+        img: "/projects/Sociopath/myportfolio.jpeg",
       },
       {
         id: "43",
         caption: "text",
 
-        img: "/projects/Sociopath/mymanager1.jpeg",
+        img: "/projects/Sociopath/myportfolio1.jpg",
       },
       {
         id: "44",
         caption: "text",
 
-        img: "/projects/Sociopath/mymanager2.jpeg",
+        img: "/projects/Sociopath/myportfolio2.jpg",
       },
+      {
+        id: "45",
+        caption: "text",
+
+        img: "/projects/Sociopath/myportfolio3.png",
+      },
+      {
+        id: "46",
+        caption: "text",
+
+        img: "../../public/projects/Sociopath/myportfolio2.jpg",
+      },
+    ],
+  },
+  {
+    id: "5",
+    name: "Trupee CRM",
+    title:
+      "This is a based on Roles and permission of each user given by super admin",
+    url: "",
+    github: ["https://github.com/anujeshyadav/myPortFolio.git"],
+    desc: "This is my Personnel PortFolio, to showcase my skills in frontend.",
+    D_desc:
+      "This is multivendor CRM used for creating Roles and permission according to roles and permissions side tab would be shown or hide and permission to create edit, delete or update is given based on roles assign to perticular user, user is created with their roles. they can add their product and assign to client or also able to create invoices. SuperAdmin can see all trnsaction but each user can see only their activity ",
+
+    skills: ["React.js", "bootstrap", "ReactStrap"],
+    img: "/projects/Sociopath/trupee.png",
+    Arrimg: [
+      {
+        id: "41",
+        caption: "text",
+
+        img: "/projects/Sociopath/trupee1.png",
+      },
+      {
+        id: "42",
+        caption: "text",
+
+        img: "/projects/Sociopath/trupee2.png",
+      },
+      {
+        id: "43",
+        caption: "text",
+
+        img: "/projects/Sociopath/trupee3.png",
+      },
+      {
+        id: "44",
+        caption: "text",
+
+        img: "/projects/Sociopath/trupee4.png",
+      },
+      {
+        id: "45",
+        caption: "text",
+
+        img: "/projects/Sociopath/trupee.png",
+      },
+      // {
+      //   id: "46",
+      //   caption: "text",
+
+      //   img: "../../public/projects/Sociopath/myportfolio2.jpg",
+      // },
     ],
   },
 ];
