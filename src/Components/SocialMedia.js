@@ -59,6 +59,7 @@ const SocialMedia = ({ color }) => {
         }`}
         color={color ? "#fa7e1e" : "#fa7e1e"}
       />
+      {/* for you tube */}
       {/* <AiFillYoutube
         size={window.innerWidth < 550 ? 38 : 45}
         onClick={(e) => {
