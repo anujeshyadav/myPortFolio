@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f62b7384.css",
-    "main.js": "/static/js/main.605707dd.js",
-    "static/media/Anujesh Yadav Resume.pdf": "/static/media/Anujesh Yadav Resume.752b0b6b87f2f9670be0.pdf",
+    "main.js": "/static/js/main.15815baa.js",
+    "static/media/Anujesh Yadav Resume.pdf": "/static/media/Anujesh Yadav Resume.fd880032b3368bfb8609.pdf",
     "static/media/halfimage.png": "/static/media/halfimage.4f002049b42bd45ec736.png",
     "static/media/myimage.png": "/static/media/myimage.aee5e508512d4ee6bbbe.png",
     "static/media/referrels.png": "/static/media/referrels.f908689394244971e970.png",
@@ -15,10 +15,10 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "main.f62b7384.css.map": "/static/css/main.f62b7384.css.map",
-    "main.605707dd.js.map": "/static/js/main.605707dd.js.map"
+    "main.15815baa.js.map": "/static/js/main.15815baa.js.map"
   },
   "entrypoints": [
     "static/css/main.f62b7384.css",
-    "static/js/main.605707dd.js"
+    "static/js/main.15815baa.js"
   ]
 }
