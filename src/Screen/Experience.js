@@ -26,6 +26,23 @@ function Experience() {
             <b>Description</b>:- a content website and admin panel where user
             post their content , search , bookmark and read.
           </p>
+          <h5>Live Project :- DMS</h5>
+          <p>
+            Link:-
+            <a target="blank" href="https://admin.rupioo.com">
+              {" "}
+              https://admin.rupioo.com{" "}
+            </a>
+          </p>
+          <p>
+            {" "}
+            <b> Description</b>:- In this Project we have Multiple Roles and
+            Permission Accroding to it user can view pages and perform view edit
+            and delete operation. having multiple customer with assigned
+            transporter. customer and Super admin can purchase product and
+            create invoice with stock updation and product updation and price
+            updation of product.
+          </p>
           <h5>Live Project :- my manager</h5>
           <p>
             Link:-

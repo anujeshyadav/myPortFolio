@@ -41,8 +41,9 @@ const Main = ({ animations }) => {
     words: [
       // "MERN Stack Web Developer",
       // "Stand Alone Hackathon Winner",
-      "Over 1 year of Experience",
+      "Over 2 year of Experience",
       "Experience as a React Developer",
+      "Worked On Many Live Projects",
     ],
     loop: 0,
   });
